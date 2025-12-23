@@ -1,4 +1,4 @@
-# Stremio Discord Rich Presence
+# Stremio Discord Rich Presence (CANCELED) ❌
 
 A Windows background application that adds Discord Rich Presence integration for Stremio, automatically showing what you're watching on Discord.
 
